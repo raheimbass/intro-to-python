@@ -1,0 +1,25 @@
+# move the terminal
+cd  (DRAG YOUR FOLDER HERE)
+
+
+# run a python script
+python3 <NAME OF THE FILE>
+
+
+# string formatting
+f"Hello {name}"
+
+
+# count elements on a list
+len(names)
+
+#clear the terminal 
+windows: cls
+mac: clear
+
+
+# get out of the Python interactive console (if the line starts with >>>)
+exit()
+
+[] creates a list
+{}creates dictionaries 
